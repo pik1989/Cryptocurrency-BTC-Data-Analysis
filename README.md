@@ -1,9 +1,13 @@
-# Crypto Currency Project
+# Crypto Currency Data Analysis Project - End to End
 
-## For the time being, we have just scraped the data, here's the video link: 
-
-#### 🔴 Detailed Video: 
+#### 🔴 Detailed Session on Web Scraping - Part I:
 
 [![Alt text](https://user-images.githubusercontent.com/34673684/146775826-0da1cecc-bc6e-47c4-8cc3-0eefaf558462.png)](https://www.youtube.com/watch?v=_F_BXGZg4_U)
 
-Once we add further details to this project, the ReadMe will be updated accordingly :)
+#### 🔴 Exploratory Data Analysis - Part II:
+
+[![Alt text](https://user-images.githubusercontent.com/34673684/147409286-e681189f-1490-406e-a2dc-4eb984b3f1a6.png)](https://www.youtube.com/watch?v=NxCoTT36E-o)
+
+#### 🔴 Cryptocurrency BTC Forecasting in Power BI - Part III:
+
+[![Alt text](https://user-images.githubusercontent.com/34673684/147409249-9ab5e7dd-6acc-4c67-a587-b9deeaa2c387.png)](https://www.youtube.com/watch?v=pW3ONQIheew)
