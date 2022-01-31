@@ -11,3 +11,9 @@
 #### 🔴 Cryptocurrency BTC Forecasting in Power BI - Part III:
 
 [![Alt text](https://user-images.githubusercontent.com/34673684/147409249-9ab5e7dd-6acc-4c67-a587-b9deeaa2c387.png)](https://www.youtube.com/watch?v=pW3ONQIheew)
+
+#### 🔴 Cryptocurrency BTC Forecasting in Python - Part IV:
+
+[![Alt text](https://user-images.githubusercontent.com/34673684/151828991-ddc1a92a-d341-41a5-8395-ee68e98fa4d1.png)](https://www.youtube.com/watch?v=cYS7Ez79xs8)
+
+#### 🔴 Cryptocurrency BTC Forecasting in Power BI - Part V: Coming soon
